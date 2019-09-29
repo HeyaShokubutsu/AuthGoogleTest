@@ -1,6 +1,6 @@
 # AuthGoogleTest
 
-Simple pack of tests for google Authorisation page.<br>
+Simple pack of tests for Google Authorisation page.<br>
 – First test changes language to English.<br>
 – Second one reaches new account creation page.<br>
 – Third test receives warning trying to restore account using incorrect data. <br>
